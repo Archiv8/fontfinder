@@ -11,7 +11,6 @@ pkgbase = fontfinder
 	provides = fontfinder
 	options = !emptydirs
 	source = fontfinder-1.4.1.tar.gz::https://gitlab.com/mmstick/fontfinder/-/archive/1.4.1/fontfinder-1.4.1.tar.gz
-	sha256sums = ca37b974b30b9788e21f2301d0aac46f1db58aa43044db9017ef9c666512384e
+	sha512sums = 5684fde581d80db49f93652992b7aca63560f50d4ac35e4e7c017bed1b9da70feb16313aa3ee6d29f2f1fd02b8b5ca96920336a7341e800f852afe543b8821a1
 
 pkgname = fontfinder
-
